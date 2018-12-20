@@ -1,0 +1,24 @@
+scan step(s)
+	all
+	one
+	two
+	three....
+
+scan name, date
+
+batch scan positioner numbers and ask for notes per
+
+restart?
+
+
+
+
+
+
+
+annoyances to me from old program:
+	-having to restart after y/n
+		-possible fix: take larger quantities, or remember previous
+	-manually pressing enter
+		-possible fix: barcode with enter? or detect when pressed
+	

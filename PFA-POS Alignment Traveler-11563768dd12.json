@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pfa-pos-alignment-traveler",
+  "private_key_id": "11563768dd125f055235c966e4e28ded4cc09679",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMbmfOJQ6Z8Ge5\nWxUVH4f8JSaDw792f+qe3dLONLEQ92I15Ox08jyDFzn3t/MKCl61AzLy53V7Yhcw\nGWHOasbuWIJgaJD/xB6guUl2QsnkXRc7Uow1yzeYfBUVY5zXDAJ4+rAFw/tTU4a7\nX3UKecDtAjHflbbcThWwka6i241gjw/J+hLRfWb2WFWvhjQMEcpAsL4vcFsc7muM\nXVe3NNeoERjVJNii0YMX4gwOvp6IWIOmBhypYOFp6tq7S1IsMILTxn4uJ5iUA+d7\nor2nm7e1CrxAwXv7YuKBLOe1lhZdC+lrKlc3kc04M6DsnHj4BHL9/S7YXU6oLE0O\nT+EhEAhzAgMBAAECggEAAPbATIuGLxmgE5KnXcshRAIU1Wg13eQqggc/uDMtZowU\nDXb/2mlN+bxBTLa0UabM3YOfWN/YgPVscJCeEnAUcgk+zB+SF3KgRle5TfJwqz/5\nHRF9kb9cir6DBu/KTIVE+bcM32oWJEVvjDCeB6edTkDFZW16SD2iAowdS61HVF42\nJL1Iab7iy2FiIdODMlOC6145EH0Nl/Lh6U1e5BiXAvFsyPm0S93LKrDGkYsq+IGZ\nafTuUZZ6HjsKpZcru+xAUBozqzPh6IzFXKYhSD+mbyOHRXDdoAW1Pvs46ZXHooAO\noLwrFLC6KUTkYSYX3D+xH2IwKqM2scyX/reve8NriQKBgQD9NpOxUjj40+GPcEH6\n83XPvGRpIpYSUFLw/WNsQOPe22v/zjOBEZMIdapumeXXCYS9IQ2MmZLoAACThsQo\nB57541eBvWPZ7ToZZF9wgGR62Fa3OrWDDG+vDtAoDX1uzbllV7EyLeUHHBjy4N0P\nNVzXvtMaWNQYf+kBAjlOM93wvwKBgQDOrmLwzOWJQPhrxPIvSbtB3afvYurJNkIe\ncb7wC99hkx5H6zKRFo38TcKVvFB7i5xVYre2kguGf1LEnD0pPJtIBmBDWsR7L8DD\nzR7nw9q1/rOuDwvq8SjUbdT3UwSWwh1jG+1Ix44+PgcWZn0gkiU6QJBbEDRue7NP\n7ocUoDohTQKBgQDo7c65PLjZ9Rc2ev7HGjTS7yuzJzTEDg3uUDmoeJzmAhT8UTRB\n0+fczVkFux6aTNBFpuUu5IsmTfI5w6woYrJUj1SNLapv63EZsKK2+/TyqJZEoYYd\n0k/eypKjdZ1gU3Drj9qaHWvkuW0d58qS1fTdJlZNk08wZmHyIpiSntXYQwKBgAOp\nUTVk29gfn4cBOS0fSEL1c0kpXnFsFaXGbBSCkVWALrQldYLefGtw0Tan3GEj6wQU\nOJ7yXWPnk4bKIcc+PJ39Bu2KiRqJkQem9ZozfQdmWLaHq7VgylFhFLnA7b7h93VP\nBFgauOlfXe7GqAbQr/olNKl4UwV2CYor9pal9AGtAoGAHa4Gymc3ktnKkqXXvoeU\nmkN5AyyATYfxdBk6Gn2RA7apLs5hrjXaPImfA5C92yt0sa4P6zsUMkB5250wNFd2\neIGDRxMh5DF0yNYjdTc4Qvbhbj5Ijb6PvP3Vt4ggUEgKxdFnj7ERuE1OD0C8GJHT\nlmDEn8phRhqUlPxQtab+kiw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pfa-pos-alignment-traveler@pfa-pos-alignment-traveler.iam.gserviceaccount.com",
+  "client_id": "108363996560607833085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pfa-pos-alignment-traveler%40pfa-pos-alignment-traveler.iam.gserviceaccount.com"
+}
